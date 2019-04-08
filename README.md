@@ -1,5 +1,5 @@
 # WEB2019
 
 Marie Cruveillier
-Eliot Jarcet
+Eliot JARCET
 Lucas Lavallée 
